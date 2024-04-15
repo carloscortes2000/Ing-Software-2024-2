@@ -1,0 +1,23 @@
+.clientes-container {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+.lista-clientes {
+    margin-top: 20px;
+}
+
+.lista-clientes div {
+    margin-bottom: 10px;
+}
+
+.lista-clientes p {
+    margin-bottom: 5px;
+}
+
+.lista-clientes button {
+    margin-left: 10px;
+}

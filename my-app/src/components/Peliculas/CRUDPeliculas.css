@@ -1,0 +1,23 @@
+.peliculas-container {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+.lista-peliculas {
+    margin-top: 20px;
+}
+
+.lista-peliculas div {
+    margin-bottom: 10px;
+}
+
+.lista-peliculas p {
+    margin-bottom: 5px;
+}
+
+.lista-peliculas button {
+    margin-left: 10px;
+}
